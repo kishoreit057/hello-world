@@ -1,2 +1,3 @@
-# hello-world - this is an advanced testing
-practicing git hub flow for hello world
+# <h1>hello-world - this is an advanced testing
+<h2>practicing git hub flow for hello world
+<h3>This is a sample code for checking git hub</h3>
